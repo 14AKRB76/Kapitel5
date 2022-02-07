@@ -14,7 +14,7 @@ def Obstkorb(Fruechte):
         FruchtDict[Fruchtnamen] = Fruchtanzahl
     return FruchtDict
     
-    
+    print("test")
     
     
     
