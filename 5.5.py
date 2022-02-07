@@ -15,6 +15,7 @@ def Obstkorb(Fruechte):
     return FruchtDict
     
     print("test")
+    print("2")
     
     
     
